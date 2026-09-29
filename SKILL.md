@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-joint-attention-pairing
-description: "Establish joint attention by anchoring explanations in concrete, verifiable artifacts." Use this when working on fitzpatrick joint attention pairing.
+description: "Establish joint attention by anchoring explanations in concrete, verifiable artifacts. Use this when working on fitzpatrick joint attention pairing."
 category: "Writing & Communication"
 triggers:
   - "joint attention pairing"
